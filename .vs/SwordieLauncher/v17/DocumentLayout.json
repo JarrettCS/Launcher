@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|c:\\users\\anti\\documents\\development\\launcher\\v214\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|solutionrelative:v214\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|c:\\users\\anti\\documents\\development\\launcher\\v214\\main\\outpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|solutionrelative:v214\\main\\outpackets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|c:\\users\\anti\\documents\\development\\launcher\\v214\\main\\outpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|solutionrelative:v214\\main\\outpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|c:\\users\\anti\\documents\\development\\launcher\\v214\\main\\inpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|solutionrelative:v214\\main\\inpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|c:\\users\\anti\\documents\\development\\launcher\\v214\\main\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|solutionrelative:v214\\main\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|c:\\users\\anti\\documents\\development\\launcher\\v214\\main\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0715EBE5-503C-4ADE-A64A-7B94477409E9}|v214\\Launcher.csproj|solutionrelative:v214\\main\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\Form1.cs",
+              "RelativeDocumentMoniker": "v214\\Form1.cs",
+              "ToolTip": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\Form1.cs",
+              "RelativeToolTip": "v214\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwF8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:04:23.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutPackets.cs",
+              "DocumentMoniker": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\OutPackets.cs",
+              "RelativeDocumentMoniker": "v214\\main\\OutPackets.cs",
+              "ToolTip": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\OutPackets.cs",
+              "RelativeToolTip": "v214\\main\\OutPackets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:02:53.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\OutPacket.cs",
+              "RelativeDocumentMoniker": "v214\\main\\OutPacket.cs",
+              "ToolTip": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\OutPacket.cs",
+              "RelativeToolTip": "v214\\main\\OutPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:02:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\InPacket.cs",
+              "RelativeDocumentMoniker": "v214\\main\\InPacket.cs",
+              "ToolTip": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\InPacket.cs",
+              "RelativeToolTip": "v214\\main\\InPacket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:02:50.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Handlers.cs",
+              "DocumentMoniker": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\Handlers.cs",
+              "RelativeDocumentMoniker": "v214\\main\\Handlers.cs",
+              "ToolTip": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\Handlers.cs",
+              "RelativeToolTip": "v214\\main\\Handlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:02:49.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\Client.cs",
+              "RelativeDocumentMoniker": "v214\\main\\Client.cs",
+              "ToolTip": "C:\\Users\\Anti\\Documents\\Development\\Launcher\\v214\\main\\Client.cs",
+              "RelativeToolTip": "v214\\main\\Client.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:02:24.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

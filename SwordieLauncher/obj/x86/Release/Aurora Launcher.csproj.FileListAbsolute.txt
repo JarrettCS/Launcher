@@ -1,0 +1,47 @@
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe.config
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.pdb
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csprojAssemblyReference.cache
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form1.resources
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form2.resources
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.Properties.Resources.resources
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.exe
+C:\Users\Bluntest\Documents\Maple Stuff\207client\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.pdb
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe.config
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.pdb
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.AssemblyReference.cache
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form1.resources
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form2.resources
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.Properties.Resources.resources
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.exe
+C:\Users\ניסן\Desktop\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.pdb
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe.config
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.pdb
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.AssemblyReference.cache
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form1.resources
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form2.resources
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.Properties.Resources.resources
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.exe
+C:\Users\ניסן\Desktop\Maple.Core versions\Maplestoryv207\v207\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.pdb
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.AssemblyReference.cache
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.exe.config
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.exe
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.pdb
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form1.resources
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\SwordieLauncher.Form2.resources
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora.Properties.Resources.resources
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\obj\x86\Release\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe.config
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.exe
+C:\Users\Anti\Desktop\client+dll\SwordieLauncher\SwordieLauncher\bin\x86\Release\Aurora.pdb

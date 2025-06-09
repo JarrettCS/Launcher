@@ -1,0 +1,21 @@
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Release\SwordieLauncher.exe.config
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Release\SwordieLauncher.exe
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Release\SwordieLauncher.pdb
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.Form1.resources
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.Form2.resources
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.Properties.Resources.resources
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.csproj.GenerateResource.cache
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.exe
+C:\Users\Bluntest\Documents\Maple Stuff\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.pdb
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Release\SwordieLauncher.exe.config
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Release\SwordieLauncher.exe
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Release\SwordieLauncher.pdb
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.csprojAssemblyReference.cache
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.Form1.resources
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.Form2.resources
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.Properties.Resources.resources
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.csproj.GenerateResource.cache
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.exe
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Release\SwordieLauncher.pdb

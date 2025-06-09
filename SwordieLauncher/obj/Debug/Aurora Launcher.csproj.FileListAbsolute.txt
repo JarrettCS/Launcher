@@ -1,0 +1,22 @@
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Debug\SwordieLauncher.exe.config
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Debug\SwordieLauncher.exe
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Debug\SwordieLauncher.pdb
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora Launcher.csprojAssemblyReference.cache
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.Form1.resources
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.Form2.resources
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.Properties.Resources.resources
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.exe
+C:\Users\Poke\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.pdb
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora Launcher.csprojAssemblyReference.cache
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.Form1.resources
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\SwordieLauncher.Form2.resources
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.GenerateResource.cache
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Debug\Aurora.exe.config
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Debug\Aurora.exe
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\bin\Debug\Aurora.pdb
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora.Properties.Resources.resources
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora.exe
+C:\Users\Poki\Downloads\SwordieLauncher\SwordieLauncher\SwordieLauncher\SwordieLauncher\obj\Debug\Aurora.pdb
